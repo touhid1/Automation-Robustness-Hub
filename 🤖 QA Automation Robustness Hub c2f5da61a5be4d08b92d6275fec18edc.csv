@@ -1,0 +1,15 @@
+﻿Challenge Name,Best Practices,Category,Common Pitfalls,Difficulty,Due Date,Framework,Notes,Priority,Resources,Solution Code,Status
+⚖️ Framework Comparison & Reference - ফ্রেমওয়ার্ক তুলনা ও রেফারেন্স,,,,,,,,,,,
+📖 QA Automation Robustness Guide - সম্পূর্ণ নির্দেশিকা,,,,,,,,,,,
+Multi-Level Dropdown Navigation,,"Interactions, Navigation",,Medium,,"Cypress, Playwright",,4,,,Not Started
+Pop-Up Window Handling,,"Browser Features, Interactions",,Medium,,"Cypress, Playwright, Selenium",,7,,,Not Started
+Dynamic Table - Find Spider-Man,,"DOM Handling, Interactions",,Medium,,"Cypress, Playwright, Selenium",,1,,,Not Started
+Verify Account - Input Validation,,"Form Elements, Interactions",,Easy,,"Cypress, Playwright",,2,,,Not Started
+Fetching Data - API & Wait Conditions,,"API Testing, Dynamic Content",,Medium,,"Cypress, Playwright, Selenium",,12,,,Not Started
+New Tab - Window Handling,,"Browser Features, Navigation",,Medium,,"Cypress, Playwright, Selenium",,6,,,Not Started
+File Upload & Download,,File Operations,,Medium,,"Cypress, Playwright, Selenium",,10,,,Not Started
+Tags Input Box - Add & Remove,,"Form Elements, Interactions",,Medium,,"Cypress, Playwright, Selenium",,3,,,Not Started
+Sortable List - Drag & Drop,,"DOM Handling, Interactions",,Hard,,"Cypress, Playwright",,5,,,Not Started
+Shadow DOM - Encapsulation,,"Browser Features, DOM Handling",,Hard,,"Cypress, Playwright",,9,,,Not Started
+Geolocation - Browser API,,Browser Features,,Medium,,"Playwright, Selenium",,11,,,Not Started
+Nested iFrame - DOM Traversal,,"Browser Features, DOM Handling",,Hard,,"Cypress, Playwright, Selenium",,8,,,Not Started
