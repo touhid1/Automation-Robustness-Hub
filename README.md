@@ -9,6 +9,7 @@ It includes:
 
 ## Quick Links
 
+- [Live Notion hub](https://spicy-rate-a62.notion.site/c2f5da61a5be4d08b92d6275fec18edc?v=71bbb38db75041fca20efd151e59c9fc)
 - [Main CSV export](<./🤖 QA Automation Robustness Hub c2f5da61a5be4d08b92d6275fec18edc.csv>)
 - [Full CSV export](<./🤖 QA Automation Robustness Hub c2f5da61a5be4d08b92d6275fec18edc_all.csv>)
 - [QA Automation Robustness Guide](<./🤖 QA Automation Robustness Hub/📖 QA Automation Robustness Guide - সম্পূর্ণ নির্দে 344bf3b9288b81d98a2afc6ec2bb6d0e.md>)
@@ -51,10 +52,11 @@ It includes:
 
 ## How To Use This Export
 
-1. Start with one of the CSV exports if you want a database-style overview.
+1. Open the [live Notion hub](https://spicy-rate-a62.notion.site/c2f5da61a5be4d08b92d6275fec18edc?v=71bbb38db75041fca20efd151e59c9fc) if you want the online version.
 2. Open the linked markdown files for detailed challenge notes.
-3. Work through challenges in priority order or by difficulty.
-4. Use the framework comparison guide to choose between Playwright, Cypress, and Selenium.
+3. Use one of the CSV exports if you want a database-style offline overview.
+4. Work through challenges in priority order or by difficulty.
+5. Use the framework comparison guide to choose between Playwright, Cypress, and Selenium.
 
 ## Suggested Learning Path
 
@@ -64,6 +66,7 @@ It includes:
 
 ## Notes
 
+- The live Notion workspace and this local export now both have entry points from the README.
 - This repo currently contains exported documentation and references, not an executable test project.
 - Some exported markdown files still appear to contain text-encoding issues inherited from the source export.
 - `README.md` now acts as a linked index for the full export.
