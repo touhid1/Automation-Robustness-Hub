@@ -2,6 +2,8 @@
 
 This repository is a Notion export of a QA automation learning hub built around challenges from [QA Playground](https://qaplayground.dev).
 
+![QA Automation Hub Overview](./qa_automation_hub_overview.svg)
+
 It includes:
 - 12 challenge notes
 - 2 reference guides
